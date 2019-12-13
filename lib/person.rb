@@ -1,4 +1,4 @@
-class Person.new(:name) do
+class Person.new
   def initialize(name)
     @name = name
   end
